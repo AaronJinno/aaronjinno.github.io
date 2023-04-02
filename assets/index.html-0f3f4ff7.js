@@ -1,1 +1,0 @@
-import{_ as a,W as t,X as n,Y as e,Z as c}from"./framework-30ff6445.js";const r={},s=e("h3",{id:"一个真正的man",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#一个真正的man","aria-hidden":"true"},"#"),c(" 一个真正的man")],-1),o=[s];function _(d,i){return t(),n("div",null,o)}const l=a(r,[["render",_],["__file","index.html.vue"]]);export{l as default};
