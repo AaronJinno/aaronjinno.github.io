@@ -1,1 +1,0 @@
-import{_ as t,W as a,X as o,Y as e,$ as n}from"./framework-ca8d4a1d.js";const c={},r=e("h2",{id:"python-介绍",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#python-介绍","aria-hidden":"true"},"#"),n(" Python 介绍")],-1),s=[r];function _(d,h){return a(),o("div",null,s)}const l=t(c,[["render",_],["__file","01001.html.vue"]]);export{l as default};
