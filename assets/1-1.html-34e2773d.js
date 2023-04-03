@@ -1,2 +1,0 @@
-import{_ as t,W as r,X as d,Y as e,$ as a}from"./framework-ca8d4a1d.js";const n={},o=e("h2",{id:"一、介绍",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#一、介绍","aria-hidden":"true"},"#"),a(" 一、介绍")],-1),s=e("h3",{id:"_1、-readme",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#_1、-readme","aria-hidden":"true"},"#"),a(" 1、 readme")],-1),c=e("pre",null,[e("code",null,`(1) hello
-`)],-1),_=[o,s,c];function h(i,l){return r(),d("div",null,_)}const m=t(n,[["render",h],["__file","1-1.html.vue"]]);export{m as default};
